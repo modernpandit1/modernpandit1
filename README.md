@@ -18,9 +18,9 @@ I am Prashant Mishra 😃. I am from Coimbatore, India and currently doing my B.
 
 💬 Ask me about anything and everything.
 
-📫 Coding site: Selfcode.in
+📫 Coding site: **Selfcode.in**
 
-📫 Technology News: Technewsblog.in
+📫 Technology News: **Technewsblog.in**
 
 ⚡ Fun fact: Internet users blink less than usual.
 
