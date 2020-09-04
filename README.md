@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello folks 👋
+I am Prashant Mishra 😃. I am from Coimbatore, India and currently doing my B.E. from Sri Eshwar College of Engineering Coimbatore 🏫.I love to explore and learn about new things.
+## 🌈Talk to me about
 
-<!--
-**modernpandit1/modernpandit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⨞ Front-end development using **HTML, Javascript,CSS,Bootstrap**
 
-Here are some ideas to get you started:
+⨞ Backend development using **PHP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⨞ Making for **Relational Database Management Systems**
+
+⨞ Mobile application development using **Android**
+
+⨞ Creating scalable cloud architecture using **AWS Cloud**
+
+⨞ Solving Data structure and algorithm questions in **Java and CPP**
+
+##~~HelloWorld !! 🤔~~
+
+💬 Ask me about anything and everything.
+
+📫 Coding site: Selfcode.in
+
+📫 Technology News: Technewsblog.in
+
+⚡ Fun fact: Internet users blink less than usual.
+
