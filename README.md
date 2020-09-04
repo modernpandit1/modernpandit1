@@ -14,7 +14,7 @@ I am Prashant Mishra 😃. I am from Coimbatore, India and currently doing my B.
 
 ⨞ Solving Data structure and algorithm questions in **Java and CPP**
 
-##~~HelloWorld !! 🤔~~
+**~~HelloWorld !! 🤔~~**
 
 💬 Ask me about anything and everything.
 
