@@ -10,8 +10,6 @@ I am Prashant Mishra 😃. I am from Coimbatore, India and currently doing my B.
 
 ⨞ Mobile application development using **Android**
 
-⨞ Creating scalable cloud architecture using **AWS Cloud**
-
 ⨞ Solving Data structure and algorithm questions in **Java and CPP**
 
 **~~HelloWorld !! 🤔~~**
